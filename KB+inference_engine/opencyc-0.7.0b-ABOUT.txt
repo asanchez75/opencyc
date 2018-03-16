@@ -1,0 +1,5 @@
+opencyc-0.7.0b.zip
+
+win32 distrib
+
+This is the original official archive for OpenCYC 0.7.0b for Windows, in its unmodified form.
