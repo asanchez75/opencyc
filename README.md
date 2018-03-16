@@ -1,6 +1,6 @@
 # OpenCyc
 
-Part of the Cyc technology was released, starting in 2001, as OpenCyc, which provided an API, RDF endpoint, and data dump, under appropriate Apache and Creative Commons open source licenses.  Its distribution was discontinued in early 2017 because such “fragmenting” led to divergence, and led to confusion amongst its users and the technical community generally that that OpenCyc fragment was Cyc.   Those wishing access to the latest version of the Cyc technology today should contact info@cyc.com to obtain a research license or a commercial license to Cyc itself. Information about ResearchCyc can be found here and EnterpriseCyc here.
+Part of the Cyc technology was released, starting in 2001, as OpenCyc, which provided an API, RDF endpoint, and data dump, under appropriate Apache and Creative Commons open source licenses.  Its distribution was discontinued in early 2017 because such “fragmenting” led to divergence, and led to confusion amongst its users and the technical community generally that that OpenCyc fragment was Cyc.   Those wishing access to the latest version of the Cyc technology today should contact info@cyc.com to obtain a research license or a commercial license to Cyc itself. Information about ResearchCyc can be found [here](http://www.cyc.com/platform/researchcyc/) and EnterpriseCyc [here](http://www.cyc.com/platform/enterprisecyc-license/).
 
 The OpenCyc Platform is your gateway to the full power of Cyc, the world's largest and most complete general knowledge base and commonsense reasoning engine. OpenCyc contains hundreds of thousands of Cyc terms organized in a carefully designed ontology. Cycorp offers this ontology at no cost and encourages you to make use of, and extend, this ontology rather than starting your own from scratch. OpenCyc can be used as the basis of a wide variety of intelligent applications such as:
 
@@ -56,55 +56,52 @@ You can download the OpenCyc knowledgebase and inference system from SourceForge
 
 The full OpenCyc content is available for download in the following OWL files:
 
-* Current version:  opencyc-latest.owl.gz
+* Current version:  [opencyc-latest.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-latest.owl.gz)
 
 md5 checksum: 96110c055c66b8774529b3b529ac2b55
 
-Archived Versions
+### Archived Versions
 
 * 2012 May 10
 
-Permanent IDs: opencyc-2012-05-10.owl.gz
+Permanent IDs: [opencyc-2012-05-10.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-2012-05-10.owl.gz)
 
 md5 checksum: b9d27434a4f1333980a60d31d989b467
 
-Human-readable IDs: opencyc-2012-05-10-readable.owl.gz
+Human-readable IDs: [opencyc-2012-05-10-readable.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-2012-05-10-readable.owl.gz)
 
 md5 checksum: 30b9c78d069cce2148c3a735fba3e77e
 
 * 2010 August 15
 
-Permanent IDs: opencyc-2010-08-15.owl.gz
+Permanent IDs: [opencyc-2010-08-15.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-2010-08-15.owl.gz)
 
 md5 checksum: da28191aeb1885e243cb47d625e69d36
 
-Human-readable IDs: opencyc-2010-08-15-readable.owl.gz
+Human-readable IDs: [opencyc-2010-08-15-readable.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-2010-08-15-readable.owl.gz)
 
 md5 checksum: 209d16a2858cdcded23ffd3c9f9e54a8
 
 * 2009 April 07
 
-Permanent IDs: opencyc-2009-04-07.owl.gz
+Permanent IDs: [opencyc-2009-04-07.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-2009-04-07.owl.gz)
 
 md5 checksum: 5fb3a25fb97d24312974bcf29675fae7
 
-Human-readable IDs: opencyc-2009-04-07-readable.owl.gz
+Human-readable IDs: [opencyc-2009-04-07-readable.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-2009-04-07-readable.owl.gz)
 
 md5 checksum: 7ff7874b550dbdb27811ed50f240dcc4
 
 * 2008 June 10
 
-Permanent IDs: opencyc-2008-06-10.owl.gz
+Permanent IDs: [opencyc-2008-06-10.owl.gz](https://github.com/asanchez75/opencyc/blob/master/opencyc-2008-06-10.owl.gz)
 
 md5 checksum: 5bc2cb422e9c4528392019387dcd27e2
-
-Human-readable IDs: opencyc-2008-06-10-readable.owl.gz
-
-md5 checksum: fead1ed9ddc93ddfee20e980af6ae3ae
 
 ---
 **DISCLAIMER**
 
+All the texts above were extracted from pages from [http://www.cyc.com](http://www.cyc.com)
 Copyright ©2018 Cycorp, Inc. All Rights Reserved.
 
 ---
