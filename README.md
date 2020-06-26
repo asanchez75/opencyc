@@ -3,6 +3,7 @@
 ### Update
 
 The download link is here 
+
 https://www.amazon.com/clouddrive/share/urtlDhQbmeMz24TUNED3KiyzrqOlMYZ5gdLpTTSdcFR
 
 Part of the Cyc technology was released, starting in 2001, as OpenCyc, which provided an API, RDF endpoint, and data dump, under appropriate Apache and Creative Commons open source licenses.  Its distribution was discontinued in early 2017 because such “fragmenting” led to divergence, and led to confusion amongst its users and the technical community generally that that OpenCyc fragment was Cyc.   Those wishing access to the latest version of the Cyc technology today should contact info@cyc.com to obtain a research license or a commercial license to Cyc itself. Information about ResearchCyc can be found [here](http://www.cyc.com/platform/researchcyc/) and EnterpriseCyc [here](http://www.cyc.com/platform/enterprisecyc-license/).
